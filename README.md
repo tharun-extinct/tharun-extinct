@@ -17,10 +17,6 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tharun-extinct.tharun-extinct&"  />
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
